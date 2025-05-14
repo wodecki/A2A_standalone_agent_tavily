@@ -1,6 +1,6 @@
-# Wikipedia Search Agent
+# Internet Search Agent
 
-A simple Wikipedia search agent built with LangGraph, following Configuration Driven Development principles.
+A simple Internet search agent (Tavily) built with LangGraph, following Configuration Driven Development principles.
 
 ## Configuration
 
