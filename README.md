@@ -2,6 +2,8 @@
 
 A simple Internet search agent (Tavily) built with LangGraph, following Configuration Driven Development principles.
 
+Reguires: TAVILY_API_KEY
+
 ## Configuration
 
 The agent is configured using `config.toml`, which contains:
